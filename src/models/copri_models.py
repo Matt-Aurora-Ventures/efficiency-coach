@@ -1,5 +1,5 @@
 # This is /home/ubuntu/copri_app/src/models/copri_models.py
-from src.main import db # Assuming db is initialized in src/main.py
+from src.database import db # Changed to absolute import
 from sqlalchemy.dialects.mysql import JSON # Using mysql dialect for JSON, works with SQLite too
 import datetime
 

@@ -80,7 +80,7 @@ class TrelloIntegration:
             response.raise_for_status()
             return response.json()
         except requests.exceptions.RequestException as e:
-            print(f"Error creating card 	{name}" in list {id_list}: {e}")
+            print(f"Error creating card \'{name}\' in list {id_list}: {e}")
             print(f"Response content: {response.content if 'response' in locals() else 'No response object'}")
             return None
 
