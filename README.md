@@ -49,3 +49,8 @@ To empower users by:
 
 This project is currently under active development. The focus is on building out core integrations and the intelligent coaching features to realize the vision of a truly ultimate organization and monetization assistant.
 
+
+
+
+## Testing User-Triggered Push
+This is a test line to check the user-triggered push functionality.
