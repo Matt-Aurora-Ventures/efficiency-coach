@@ -40,3 +40,16 @@ build/
 .coverage
 htmlcov/
 
+venv/
+*.log
+.env
+local_config/
+venv/
+*.log
+.env
+local_config/
+venv/
+*.log
+.env
+local_config/
+.DS_Store
